@@ -1,9 +1,11 @@
-All About the data :)
+## TODO:
 
-Für die Libraries:
+Evenutell noch eine Grafik bei 3 a bzw 3 b mit einer Regressionsgeraden zur bessern Darstellung.
 
-pip install scipy
+### Für die Libraries:
 
-pip install pandas
+- pip install scipy
 
-pip install matplotlib
+- pip install pandas
+
+- pip install matplotlib
